@@ -1,0 +1,5 @@
+project: jacob-clemente/wx-voice
+target: encoder
+
+cmds:
+  - cmd: /encoder @@ out.mp3
