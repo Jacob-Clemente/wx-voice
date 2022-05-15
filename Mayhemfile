@@ -1,4 +1,4 @@
-project: jacob-clemente/wx-voice
+project: wx-voice
 target: encoder
 
 cmds:
